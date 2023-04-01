@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="807d622f-df3b-4156-8789-c8784abb495d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDETJavaBatch16HomeWorkPavelA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass3/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass3/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass3/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass3/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass3/HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass3/HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass4/HW.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass4/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass4/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass4/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass4/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW1A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW3A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW3B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW3C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW6A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW6A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW6B1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW6B2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWClass6/HW7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NoggFh8jz7yb0WE5y7Gv1tNBRk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/parb0/IdeaProjects/SDETJavaBatch16HomeWorkPavelA/src/HWClass6"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\parb0\IdeaProjects\SDETJavaBatch16HomeWorkPavelA\src\HWClass6" />
+      <recent name="C:\Users\parb0\IdeaProjects\SDETJavaBatch16HomeWorkPavelA\src\HWClass4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HWClass6" />
+      <recent name="HWClass4" />
+      <recent name="HWClass3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HW4">
+    <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HWClass4.HW1" />
+      <module name="SDETJavaBatch16HomeWorkPavelA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HWClass4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HWClass4.HW2" />
+      <module name="SDETJavaBatch16HomeWorkPavelA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HWClass4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HWClass4.HW3" />
+      <module name="SDETJavaBatch16HomeWorkPavelA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HWClass4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HWClass4.HW4" />
+      <module name="SDETJavaBatch16HomeWorkPavelA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HWClass4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HWClass3.HW6" />
+      <module name="SDETJavaBatch16HomeWorkPavelA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HWClass3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HW4" />
+        <item itemvalue="Application.HW3" />
+        <item itemvalue="Application.HW2" />
+        <item itemvalue="Application.HW1" />
+        <item itemvalue="Application.HW6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="807d622f-df3b-4156-8789-c8784abb495d" name="Changes" comment="" />
+      <created>1680335957870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680335957870</updated>
+    </task>
+    <servers />
+  </component>
+</project>
